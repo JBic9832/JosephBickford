@@ -26,6 +26,7 @@ export default function Home({ projects }) {
     <div className="lg:flex lg:justify-between gap-6">
       <Head>
         <title>Joseph Bickford</title>
+        <link rel="icon" href="/me.png" type="img/png" sizes="any" />
       </Head>
       {/* Hero */}
       <div className="flex flex-col lg:py-24 lg:w-1/2 lg:mb-0 lg:sticky lg:top-0 lg:max-h-screen">
