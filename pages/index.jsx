@@ -39,9 +39,6 @@ export default function Home({ projects }) {
               I love to build software and expand my knowledge around
               technology.
             </p>
-            <a href="https://github.com/JBic9832">
-              <p className="text-sky-500">Github</p>
-            </a>
           </div>
           <div className="hidden lg:flex flex-col items-start mt-16 gap-2 self-start">
             <button
@@ -57,6 +54,18 @@ export default function Home({ projects }) {
               Projects
             </button>
           </div>
+        </div>
+        <div className="flex justify-self-end-end gap-4 mt-auto">
+          <a href="https://github.com/JBic9832" target="_blank">
+            <img
+              className="w-6 h-6"
+              src="/icons/github-mark-white.svg"
+              alt=""
+            />
+          </a>
+          <a href="" target="_blank">
+            <img className="w-6 h-6" src="/icons/linkedin.svg" alt="" />
+          </a>
         </div>
       </div>
       <div className="lg:py-24 pt-24 flex flex-col gap-4 lg:w-1/2">
