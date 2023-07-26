@@ -64,7 +64,10 @@ export default function Home({ projects }) {
               alt=""
             />
           </a>
-          <a href="" target="_blank">
+          <a
+            href="https://www.linkedin.com/in/joseph-bickford-9763a2226/"
+            target="_blank"
+          >
             <img className="w-6 h-6" src="/icons/linkedin.svg" alt="" />
           </a>
         </div>
