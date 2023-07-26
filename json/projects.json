@@ -1,0 +1,39 @@
+[
+  {
+    "name": "NFT Minting Site",
+    "technologies": [
+      "Web3",
+      "ReactJS",
+      "Javascript",
+      "Solidity",
+      "NFT",
+      "Blockchain"
+    ],
+    "description": "This was an NFT project I created to learn the up and coming Web3 technologies. It features a ReactJS front end and a solidity backend. The NFTs include data such as rarity and attributes associated to them making each one unique and special (some more than others). All NFTs and data surrounding them live on IPFS storage through a service called Pinata.",
+    "github_link": "https://github.com/JBic9832/AxolotlMint",
+    "deployed_link": "",
+    "image": "axo.png"
+  },
+  {
+    "name": "The Developer Post",
+    "technologies": ["Hugo", "HTML", "CSS", "NetlifyCMS"],
+    "description": "The Developer Post was a passion project to share my love for tech and business. My main focuses were to ensure that the website was responsive, SEO friendly, and contained valuable content. It is integrated with Netlify CMS to make generating new content a breeze.",
+    "github_link": "https://github.com/JBic9832/thedeveloperpost",
+    "deployed_link": "https://thedeveloperpost.com/",
+    "image": "tdp.png"
+  },
+  {
+    "name": "Property Management Site",
+    "technologies": [
+      "NextJS",
+      "ReactJS",
+      "Tailwind CSS",
+      "Javascript",
+      "Firebase (Cloud Functions, Authentication, Firestore NoSQL Database)"
+    ],
+    "description": "This is a web app to help landlords keep track of their properties and the people who reside in them. It uses NextJS for the frontend and Firebase for the backend. ",
+    "github_link": "https://github.com/JBic9832/PropertyManager",
+    "deployed_link": "https://joes-property-manager.netlify.app/",
+    "image": "landlord.png"
+  }
+]
