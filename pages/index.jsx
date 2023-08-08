@@ -82,6 +82,7 @@ export default function Home({ projects }) {
                         <a
                             className="text-sky-500 underline"
                             href="https://www.youtube.com/@Node"
+                            target="_blank"
                         >
                             Node
                         </a>{" "}
