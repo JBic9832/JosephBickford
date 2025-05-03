@@ -1,5 +1,18 @@
 [
   {
+    "name": "Simple PBR Renderer",
+    "technologies": [
+      "C++",
+      "OpenGL",
+      "GLFW",
+      "CMake"
+    ],
+    "description": "This is a project I built to explore the capabilities of Physically Based Rendering. It uses glad for OpenGL bindings and GLFW for window management. The build system is made with CMake.",
+    "github_link": "https://github.com/JBic9832/SimplePbrDemo",
+    "deployed_link": "",
+    "image": "spbr.png"
+  },
+  {
     "name": "NFT Minting Site",
     "technologies": [
       "Web3",
@@ -40,18 +53,5 @@
     "github_link": "https://github.com/JBic9832/PropertyManager",
     "deployed_link": "https://joes-property-manager.netlify.app/",
     "image": "landlord.png"
-  },
-  {
-    "name": "Simple PBR Renderer",
-    "technologies": [
-      "C++",
-      "OpenGL",
-      "GLFW",
-      "CMake"
-    ],
-    "description": "This is a project I built to explore the capabilities of Physically Based Rendering. It uses glad for OpenGL bindings and GLFW for window management. The build system is made with CMake.",
-    "github_link": "https://github.com/JBic9832/SimplePbrDemo",
-    "deployed_link": "",
-    "image": "spbr.png"
   }
 ]
