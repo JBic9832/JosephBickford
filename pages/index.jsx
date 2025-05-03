@@ -77,30 +77,16 @@ export default function Home({ projects }) {
                 <div id="about" className="mb-16">
                     <h1 className="font-bold text-sky-500">Background:</h1>
                     <p>
-                        My programming journey started in 2016 when I was a freshman in
-                        highschool. I was watching a{" "}
-                        <a
-                            className="text-sky-500 underline"
-                            href="https://www.youtube.com/@Node"
-                            target="_blank"
-                        >
-                            Node
-                        </a>{" "}
-                        video and was so fascinated by the fact that Sam was building a VR
-                        game in Unity to show to his friends. For the next year I sat in my
-                        room everyday and watched every tutorial I possibly could about
-                        Unity. In my last 3 years of highschool I mostly experimented with
-                        UIKit for IOS, Python, and Java.
+                        Hi, I’m Joseph Bickford — a Computer Science student with a focus on software engineering.
+                        I began coding at 14, building games in Unity, and that early curiosity quickly grew into a passion for creating things with code. Over the years,
+                        I’ve explored a wide range of programming—from 3D graphics and game development to full-stack web applications. I’ve found my niche in building web apps and diving deep into modern web technologies.
+                        My goal is simple: keep learning, keep building, and create things that make a difference.
                     </p>
-                    <h1 className="font-bold text-sky-500 mt-4">Today:</h1>
+                    <h1 className="font-bold text-sky-500 mt-4">Skills:</h1>
                     <p>
-                        Today I am driven by goals to build an amazing career forging products that have immense impact on the world and help large amounts of people. I am also
-                        driven to serve people. I have done some freelancing jobs which
-                        mostly consisted of consulting work to help people come up with
-                        technical solutions for their business needs/problems. Since my
-                        years in highschool I have found a passion for web developement;
-                        although I am fairly agnostic when it comes to language/framework
-                        and am just excited to learn and create.
+                        I have experience with a range of programming languages, including C++, JavaScript, TypeScript, and Go.
+                        On the technology side, I’m familiar with tools and platforms like Google Firebase, Docker, Git, WebSockets for real-time applications, and both SQL and NoSQL databases.
+                        I’m always working to grow my skill set—continuous learning is my top priority.
                     </p>
                 </div>
                 {/* projects */}
