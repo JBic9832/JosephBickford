@@ -16,7 +16,12 @@
   },
   {
     "name": "The Developer Post",
-    "technologies": ["Hugo", "HTML", "CSS", "NetlifyCMS"],
+    "technologies": [
+      "Hugo",
+      "HTML",
+      "CSS",
+      "NetlifyCMS"
+    ],
     "description": "The Developer Post was a passion project to share my love for tech and business. My main focuses were to ensure that the website was responsive, SEO friendly, and contained valuable content. It is integrated with Netlify CMS to make generating new content a breeze.",
     "github_link": "https://github.com/JBic9832/thedeveloperpost",
     "deployed_link": "https://thedeveloperpost.com/",
@@ -35,5 +40,18 @@
     "github_link": "https://github.com/JBic9832/PropertyManager",
     "deployed_link": "https://joes-property-manager.netlify.app/",
     "image": "landlord.png"
+  },
+  {
+    "name": "Simple PBR Renderer",
+    "technologies": [
+      "C++",
+      "OpenGL",
+      "GLFW",
+      "CMake"
+    ],
+    "description": "This is a project I built to explore the capabilities of Physically Based Rendering. It uses glad for OpenGL bindings and GLFW for window management. The build system is made with CMake.",
+    "github_link": "https://github.com/JBic9832/SimplePbrDemo",
+    "deployed_link": "",
+    "image": "spbr.png"
   }
 ]
