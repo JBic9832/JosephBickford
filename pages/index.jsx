@@ -79,8 +79,8 @@ export default function Home({ projects }) {
                     <p>
                         Hi, I’m Joseph Bickford — a Computer Science student with a focus on software engineering.
                         I began coding at 14, building games in Unity, and that early curiosity quickly grew into a passion for creating things with code. Over the years,
-                        I’ve explored a wide range of programming—from 3D graphics and game development to full-stack web applications. I’ve found my niche in building web apps and diving deep into modern web technologies.
-                        My goal is simple: keep learning, keep building, and create things that make a difference.
+                        I’ve explored a wide range of programming—from 3D graphics and game development to full-stack web applications. I’ve found my niche in building 3D graphics applications and intend to follow that path into a career.
+                        My goal is to build interactive applications that will see real users and have an impact.
                     </p>
                     <h1 className="font-bold text-sky-500 mt-4">Skills:</h1>
                     <p>

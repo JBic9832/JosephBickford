@@ -13,6 +13,19 @@
     "image": "spbr.png"
   },
   {
+    "name": "Dread Engine",
+    "technologies": [
+      "C++",
+      "OpenGL",
+      "GLFW",
+      "CMake"
+    ],
+    "description": "Dread is a small game engine written in C++ that is a longer term project for me. It is a passion project created in the pursuit to learn as much as possible about building interactive desktop applications using 2D and 3D graphics technologies.",
+    "github_link": "https://github.com/JBic9832/Dread",
+    "deployed_link": "",
+    "image": ""
+  },
+  {
     "name": "Property Management Site",
     "technologies": [
       "NextJS",
